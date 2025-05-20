@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "db478a1664ba1265",
+    "id": "c872ef6c241ba59b",
     "type": "split",
     "children": [
       {
-        "id": "807e7778b6825bf7",
+        "id": "235d4f62077880e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc028d72684635d",
+            "id": "9b3f29f7d424f0c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Primitive.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primitive"
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1be212c5eb341c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e20325cf6fb4be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ec9b8e6a9441c9f",
+    "id": "a788cfbb7091fafe",
     "type": "split",
     "children": [
       {
-        "id": "4899e08721dea49e",
+        "id": "9625a83b95e09dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "4687069e2f65a1ec",
+            "id": "0b90c71cbad2ab5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "b5e6ba3b51fa5dc2",
+            "id": "e725b02462badc49",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "55fbf3ec4e7211be",
+            "id": "422c3fe1227e0fd7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "09fb0a7b9b9adb3f",
+    "id": "e2567a6dcef75097",
     "type": "split",
     "children": [
       {
-        "id": "ac25e8621c0078ab",
+        "id": "d0a3450161fef074",
         "type": "tabs",
         "children": [
           {
-            "id": "20a2f23cfb12fede",
+            "id": "fc71a24ef2912563",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/basics.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for basics"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "072fb87c8a94f9d9",
+            "id": "603701594534e4be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/basics.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from basics"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "8863b7123b055791",
+            "id": "61492b07665b2563",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +153,18 @@
             }
           },
           {
-            "id": "69a89256c8c52e60",
+            "id": "dee7d9b7ab1d04f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/basics.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of basics"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -168,12 +184,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfc028d72684635d",
+  "active": "9b3f29f7d424f0c9",
   "lastOpenFiles": [
-    "Python/Primitive.md",
-    "Python/basics.md",
-    "Welcome.md",
-    "CPP",
-    "Python"
+    "Welcome.md"
   ]
 }
