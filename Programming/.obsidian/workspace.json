@@ -6,7 +6,7 @@
       {
         "id": "235d4f62077880e0",
         "type": "tabs",
-        "dimension": 62.055837563451774,
+        "dimension": 76.27388535031847,
         "children": [
           {
             "id": "9b3f29f7d424f0c9",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/Basic Datatypes and Operators.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,7 +27,7 @@
       {
         "id": "1be212c5eb341c44",
         "type": "tabs",
-        "dimension": 37.944162436548226,
+        "dimension": 23.726114649681527,
         "children": [
           {
             "id": "12e20325cf6fb4be",
@@ -186,10 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b3f29f7d424f0c9",
+  "active": "0b90c71cbad2ab5f",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Python/Terminologies.md",
     "Python/Basic Datatypes and Operators.md",
+    "Float.md",
+    "Welcome.md",
     "Python"
   ]
 }
